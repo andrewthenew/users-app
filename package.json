@@ -39,5 +39,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@types/react-router-dom": "^5.3.3",
+    "cypress": "^10.11.0",
+    "cypress-react-selector": "^3.0.0",
+    "react-router-dom": "^5.3.4"
   }
 }
